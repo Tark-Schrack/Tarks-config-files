@@ -1,7 +1,0 @@
-[Info  - 6:55:08 PM] ESLint server stopped.
-[Info  - 6:55:08 PM] ESLint server running in node v12.8.1
-[Info  - 6:55:08 PM] ESLint server is running.
-[Info  - 6:56:52 PM] ESLint library loaded from: /home/tarkin/Desktop/Discord bot/node_modules/eslint/lib/api.js
-[Info  - 6:56:52 PM] No ESLint configuration found in /home/tarkin/Desktop/Discord bot.
-[Info  - 7:00:46 PM] Cannot read config file: /home/tarkin/Desktop/Discord bot/.eslintrc.json Error: Unexpected end of JSON input
-[Info  - 7:14:25 PM] ESLint server stopped.
