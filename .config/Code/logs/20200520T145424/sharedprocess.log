@@ -1,0 +1,9 @@
+[2020-05-20 14:54:28.206] [sharedprocess] [info] main {"machineId":"027748e12092693b68a9237a59cdf0636cf4fce6a8a00a041e5a63e805daa230","windowId":2}
+[2020-05-20 14:54:28.278] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/tarkin/.config/Code/User/snippets'
+[2020-05-20 14:55:08.242] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-05-20 18:55:07.813] [sharedprocess] [info] Installing extension: dbaeumer.vscode-eslint
+[2020-05-20 18:55:08.183] [sharedprocess] [info] Downloaded extension: dbaeumer.vscode-eslint /tmp/15966b40-e869-4664-a81b-768f4ae17ac8
+[2020-05-20 18:55:08.294] [sharedprocess] [info] Extracted extension to /home/tarkin/.vscode/extensions/.dbaeumer.vscode-eslint-2.1.5: dbaeumer.vscode-eslint
+[2020-05-20 18:55:08.295] [sharedprocess] [info] Renamed to /home/tarkin/.vscode/extensions/dbaeumer.vscode-eslint-2.1.5
+[2020-05-20 18:55:08.298] [sharedprocess] [info] Installation completed. dbaeumer.vscode-eslint
+[2020-05-20 18:55:08.310] [sharedprocess] [info] Extensions installed successfully: dbaeumer.vscode-eslint

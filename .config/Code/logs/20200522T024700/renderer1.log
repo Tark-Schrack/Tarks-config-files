@@ -1,0 +1,5 @@
+[2020-05-22 02:47:02.448] [renderer1] [error] Error: Unable to read file '/home/tarkin/Documents/tsr' (Error: Unable to resolve non-existing file '/home/tarkin/Documents/tsr')
+    at Object.t.createErrorWithActions (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:53:257)
+    at e.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5512:744)
+    at e.handleSetInputError (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5515:590)
+    at e.setInput (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5512:460)

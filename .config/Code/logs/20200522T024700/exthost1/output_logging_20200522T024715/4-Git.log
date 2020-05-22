@@ -1,0 +1,239 @@
+Looking for git in: git
+Using git 2.26.2 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/tarkin/Documents/Tarks-Discord-Bot
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git check-ignore -v -z --stdin
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git checkout -q linux-os
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git show :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git log --format=%H%n%aN%n%aE%n%at%n%ct%n%P%n%B -z -n21 -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git check-ignore -v -z --stdin
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git rev-parse --show-toplevel
+fatal: not a git repository (or any of the parent directories): .git
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git show :config.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git cat-file -s d28ee4e8d122dd3e751b03bbdb9bb252fdd67263
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git show :token.json
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/token.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :index.js
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s c01a2c5ef894fdca8e000e98422b4677c2cb0674
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s 0f2cd924d10a6dfaab9ddb51201b981d2401d60c
+> git show :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+git.stage 1
+git.stage.scmResources 1
+> git add -A -- /home/tarkin/Documents/Tarks-Discord-Bot/config.json
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s 0f2cd924d10a6dfaab9ddb51201b981d2401d60c
+> git show :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git commit --quiet --allow-empty-message --file -
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s 0f2cd924d10a6dfaab9ddb51201b981d2401d60c
+> git show :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git push origin linux-os
+To https://github.com/Tark-Schrack/Tarks-Discord-Bot.git
+   d5161a4..87b68d8  linux-os -> linux-os
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /home/tarkin/Documents/Tarks-Discord-Bot/index.js
+> git cat-file -s 0f2cd924d10a6dfaab9ddb51201b981d2401d60c
+> git show :index.js
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse linux-os
+> git rev-parse --symbolic-full-name linux-os@{u}
+> git rev-list --left-right linux-os...refs/remotes/origin/linux-os
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
