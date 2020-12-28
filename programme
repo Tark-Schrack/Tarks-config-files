@@ -1,0 +1,11 @@
+networkmanager(muss enabled werden)
+terminator
+chromium
+  -Slate
+  -midnight salamander
+i3
+nvidia
+nvidia-settings
+python
+xorg
+xorg-xinit
