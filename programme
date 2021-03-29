@@ -1,14 +1,1 @@
-networkmanager(muss enabled werden)
-terminator
-chromium
-  -Slate
-  -midnight lizard
-  -umatrix
-  -ublock origin
-  -google translate
-i3
-nvidia
-nvidia-settings
-python
-xorg
-xorg-xinit
+deezer(https://github.com/siphomateke/deezer)
