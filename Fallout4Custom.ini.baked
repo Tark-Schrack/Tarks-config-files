@@ -1,0 +1,8 @@
+[Display]
+iLocation X=0
+iLocation Y=0
+[General]
+SLocalSavePath=Saves\
+[Archive]
+bInvalidateOlderFiles=1
+sResourceDataDirsFinal=
