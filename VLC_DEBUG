@@ -1,0 +1,220 @@
+
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+main debug: adding: Simple Preferences
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+alsa debug: Available ALSA PCM devices:
+alsa debug: Discard all samples (playback) or generate zero samples (capture) (null)
+alsa debug: Rate Converter Plugin Using Samplerate Library (samplerate)
+alsa debug: Rate Converter Plugin Using Speex Resampler (speexrate)
+alsa debug: JACK Audio Connection Kit (jack)
+alsa debug: Open Sound System (oss)
+alsa debug: PulseAudio Sound Server (pulse)
+alsa debug: Plugin using Speex DSP (resample, agc, denoise, echo, dereverb) (speex)
+alsa debug: Plugin for channel upmix (4,6,8) (upmix)
+alsa debug: Plugin for channel downmix (stereo) with a simple spacialization (vdownmix)
+alsa debug: Default ALSA Output (currently PulseAudio Sound Server) (default)
+alsa debug: HDA NVidia, HDMI 0 HDMI Audio Output (hdmi:CARD=NVidia,DEV=0)
+alsa debug: HDA NVidia, HDMI 1 HDMI Audio Output (hdmi:CARD=NVidia,DEV=1)
+alsa debug: HDA NVidia, HDMI 2 HDMI Audio Output (hdmi:CARD=NVidia,DEV=2)
+alsa debug: HDA NVidia, HDMI 3 HDMI Audio Output (hdmi:CARD=NVidia,DEV=3)
+alsa debug: HDA NVidia, HDMI 4 HDMI Audio Output (hdmi:CARD=NVidia,DEV=4)
+alsa debug: HDA NVidia, HDMI 5 HDMI Audio Output (hdmi:CARD=NVidia,DEV=5)
+alsa debug: HDA NVidia USB Stream Output (usbstream:CARD=NVidia)
+alsa debug: HD-Audio Generic, ALC892 Analog Default Audio Device (sysdefault:CARD=Generic)
+alsa debug: HD-Audio Generic, ALC892 Analog Front output / input (front:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic, ALC892 Analog 2.1 Surround output to Front and Subwoofer speakers (surround21:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic, ALC892 Analog 4.0 Surround output to Front and Rear speakers (surround40:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic, ALC892 Analog 4.1 Surround output to Front, Rear and Subwoofer speakers (surround41:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic, ALC892 Analog 5.0 Surround output to Front, Center and Rear speakers (surround50:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic, ALC892 Analog 5.1 Surround output to Front, Center, Rear and Subwoofer speakers (surround51:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic, ALC892 Analog 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers (surround71:CARD=Generic,DEV=0)
+alsa debug: HD-Audio Generic USB Stream Output (usbstream:CARD=Generic)
+alsa debug: USB Device 0x46d:0x9a4, USB Audio Default Audio Device (sysdefault:CARD=U0x46d0x9a4)
+alsa debug: USB Device 0x46d:0x9a4, USB Audio Front output / input (front:CARD=U0x46d0x9a4,DEV=0)
+alsa debug: USB Device 0x46d:0x9a4 USB Stream Output (usbstream:CARD=U0x46d0x9a4)
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+main debug: removing: Simple Preferences
+main debug: deleting item `Simple Preferences'
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+upnp warning: Server with uuid 'uuid:fa095ecc-e13e-40e7-8e6c-0896d7b368b7' already exists.
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+main debug: adding: cool-retro-term
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+main debug: adding: Save log file as...
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
+dbus debug: Getting All properties
